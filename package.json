@@ -1,0 +1,34 @@
+{
+  "name": "react-native-developer-toolkit",
+  "version": "1.0.0",
+  "description": "Essential React Native hooks and utilities for mobile app development",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "react-native",
+    "hooks",
+    "utilities",
+    "useAppState",
+    "useKeyboard",
+    "useReduceMotion",
+    "useNetworkStatus",
+    "mobile",
+    "ios",
+    "android",
+    "developer-tools"
+  ],
+  "author": "Nedunchezhiyan M",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.72.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nedunchezhiyan-M/react-native-developer-toolkit"
+  }
+}
